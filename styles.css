@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    background: radial-gradient(#ff0000,#0c0c0c, black)no-repeat fixed;
+    background: radial-gradient(#a2d851,#0c0c0c, black)no-repeat fixed;
     padding: 0px;
     height: 75%;
 }
 button.clear {
-    background: #FF5722;
+    background: #ff5722;
     color: #fff;
 }
 table {
